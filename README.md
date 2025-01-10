@@ -1,6 +1,7 @@
 # Neutral-Style-Transfer
 Apply the artistic style of one image (style image) to another (content image) while preserving the structure of content image. This work uses VGG network 
 Using the VGG network.
+
 **Training**
 1. **Feature Extraction**: Pass the content and style images throught the VGG to extract their respective features.
 2. **Loss function**:
